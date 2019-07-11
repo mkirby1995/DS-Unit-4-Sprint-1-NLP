@@ -1,4 +1,4 @@
-name: U4-S1-NLP
+name: mkirby_unit4_NLP
 channels:
   - defaults
 dependencies:
@@ -69,5 +69,4 @@ dependencies:
   - zlib=1.2.11=h1de35cc_3
   - pip:
     - en-core-web-sm==2.0.0
-prefix: /Users/jonathansokoll/anaconda3/envs/U4-S1-NLP
-
+prefix: /Users/mattkirby/anaconda3/envs/mkirby_unit4_NLP
